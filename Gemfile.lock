@@ -1,0 +1,21 @@
+GIT
+  remote: git://github.com/alexrothenberg/motion-addressbook.git
+  revision: 82b5e3e589e14076b7ebdccc1b4f225aa6e1b241
+  branch: issue_28
+  specs:
+    motion-addressbook (1.3.0)
+      bubble-wrap
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bubble-wrap (1.2.0)
+    rake (10.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bubble-wrap
+  motion-addressbook!
+  rake
